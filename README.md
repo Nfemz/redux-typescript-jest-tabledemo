@@ -1,14 +1,14 @@
-This application fetches from an https endpoint and returns an array of user objects.
+#This application fetches from an https endpoint and returns an array of user objects.
 The project is written using Typescript and utilizes the following tech:
 
 - React
 - React Redux
 - Redux
-  - Redux Thunk
+- Redux Thunk
 - Jest
 - Bootstrap (for minor styling)
 
-The application contains the following 5 test suites:
+#The application contains the following 5 test suites:
 
 - App.test
 
