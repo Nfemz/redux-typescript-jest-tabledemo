@@ -17,9 +17,9 @@ var rowHTML = (
 // Adapter configuration
 configure({ adapter: new Adapter() });
 
-//UserRow Test
+/* UserRow Test Suite */
 describe("<TableRow/>", () => {
-  // Test that component is receiving props and rendering correctly
+  // 1 - Test that component is receiving props and rendering correctly
   it("Successfully receives props and displays them", () => {
     expect(
       shallow(

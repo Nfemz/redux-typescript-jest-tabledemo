@@ -1,5 +1,3 @@
-# Mini application for OnView Commerce Interview
-
 This application fetches from an https endpoint and returns an array of user objects.
 The project is written using Typescript and utilizes the following tech:
 
@@ -42,4 +40,4 @@ The application contains the following 5 test suites:
 - TableRow.test
   - Tests component correctly receives and displays props
 
-# Created by Nick Femia on 6/18/2019
+# Created by Nick Femia on 6/19/2019
